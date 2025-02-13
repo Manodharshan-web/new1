@@ -39,18 +39,18 @@ function checkPassword() {
         document.getElementById("passwordSection").classList.add("hidden");
         document.getElementById("messageBox").classList.remove("hidden");
         document.getElementById("valentineMessage").innerHTML = `
-            <strong>💌 To My Love, My Heartbeat 💌</strong><br><br>
-            My dearest Poonakutty, ❤️✨<br><br>
-            Happy Valentine's day di pooonakuttyyyyyy ❤️🥰...
+            <strong>💌 To My Love, My Life 💌</strong><br><br>
+            My Dear Pondatiiiiii, ❤️✨<br><br>
+            Happy Valentine's day di ❤️🥰...
 
-Thanks for being everything for me as a Mother , Friend , Wife and everything di💋🥰...I want you to be my valentine forever di🤌..!! Yellaa valentine's day um unkooda naan irukanum nu romba aasa padren💭😌...Unna yepovu yaarukaagavum vitu kudukamaaten di promise ❤️💋.. Unna ipolaam romba kasta paduthitry irukrathuku romba sorry di adhelaam pannaama iruka yennaala mudinjathayu meeruna efforts potu unna hurt pannaama paathukren diii 💯❤️ 
+Thanks for being everything for me as a Mother , Friend , Wife and everything di💋🥰...I want you to be my valentine forever di🤌..!! Yellaa valentine's day um unkooda naan irukanum nu romba aasa padren💭😌...Unna yepovu yaarukaagavum vitu kudukamaaten di promise ❤️💋.. Unna ipolaam romba kasta paduthitey irukrathuku romba sorry di adhelaam pannaama iruka yennaala mudinjathayu meeruna efforts potu unna hurt pannaama paathukren diii 💯❤️ 
 
 Yenna romba blessed ah✨ , special aah🫠 feel panna vachathu nee thaan bbe...so unnayu andha maari feel panna vaipen muuu❤️😌...un kutty payan unakaaga enna venaalum pannuven muuu ❤️💯💋💋
 
 And last aah I neeed a deeep huggiiieeee dii seeekro chat ku odi vandhu kudu diii🤌🤌🤌!!!!
 
 Happiieeeee Valentine's Day diiiiiiiiiiiii sandakaaariiiiii💋❤️✨<br>
-            <em>Your Rowdy ❤️🔥</em>
+            <em>Your Rowdy ❤️😉</em>
         `;
     } else {
         alert("Wrong password! Try again, my love! 💕");
