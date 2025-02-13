@@ -41,10 +41,15 @@ function checkPassword() {
         document.getElementById("valentineMessage").innerHTML = `
             <strong>💌 To My Love, My Heartbeat 💌</strong><br><br>
             My dearest Poonakutty, ❤️✨<br><br>
-            From the very first moment our eyes met, my heart whispered, my life changed forever, because I found the most precious person in the world—you. 🌎💕 Every moment with you feels like a dream, a beautiful love story I never want to wake up from. 🥰<br><br>
-            You are my safe place, my greatest happiness, and my reason to smile. 😊💖 The way you hold my hand, the way you laugh, the way you simply exist—everything about you is magic. ✨ You bring light into my darkest days, you are my sunshine after every storm. 🌦️☀️ With you, even the simplest moments feel extraordinary. ❤️<br><br>
-            No words are enough to describe how much I love you. Every heartbeat of mine whispers your name. 🫀💞 You are not just my love—you are my home, my heart, my forever. 🏡💕 No matter where life takes us, I promise, my love for you will never change. I will love you through all seasons, through all ups and downs, through all of eternity. ❤️♾️<br><br>
-            <strong>Forever Yours,</strong><br>
+            Happy Valentine's day di pooonakuttyyyyyy ❤️🥰...
+
+Thanks for being everything for me as a Mother , Friend , Wife and everything di💋🥰...I want you to be my valentine forever di🤌..!! Yellaa valentine's day um unkooda naan irukanum nu romba aasa padren💭😌...Unna yepovu yaarukaagavum vitu kudukamaaten di promise ❤️💋.. Unna ipolaam romba kasta paduthitry irukrathuku romba sorry di adhelaam pannaama iruka yennaala mudinjathayu meeruna efforts potu unna hurt pannaama paathukren diii 💯❤️ 
+
+Yenna romba blessed ah✨ , special aah🫠 feel panna vachathu nee thaan bbe...so unnayu andha maari feel panna vaipen muuu❤️😌...un kutty payan unakaaga enna venaalum pannuven muuu ❤️💯💋💋
+
+And last aah I neeed a deeep huggiiieeee dii seeekro chat ku odi vandhu kudu diii🤌🤌🤌!!!!
+
+Happiieeeee Valentine's Day diiiiiiiiiiiii sandakaaariiiiii💋❤️✨<br>
             <em>Your Rowdy ❤️🔥</em>
         `;
     } else {
